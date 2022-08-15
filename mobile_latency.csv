@@ -264,13 +264,13 @@ CMR,Cameroon,Sub-Saharan Africa,2019,60.77
 CMR,Cameroon,Sub-Saharan Africa,2020,72.66
 CMR,Cameroon,Sub-Saharan Africa,2021,79.67
 COD,Congo, Democratic Republic,Sub-Saharan Africa,2014,0.00
-COD,Congo, Democratic Republic,Sub-Saharan Africa,2015,0.00
-COD,Congo, Democratic Republic,Sub-Saharan Africa,2016,0.00
-COD,Congo, Democratic Republic,Sub-Saharan Africa,2017,44.74
-COD,Congo, Democratic Republic,Sub-Saharan Africa,2018,39.09
-COD,Congo, Democratic Republic,Sub-Saharan Africa,2019,52.91
-COD,Congo, Democratic Republic,Sub-Saharan Africa,2020,62.39
-COD,Congo, Democratic Republic,Sub-Saharan Africa,2021,56.74
+COD,Congo Democratic Republic,Sub-Saharan Africa,2015,0.00
+COD,Congo Democratic Republic,Sub-Saharan Africa,2016,0.00
+COD,Congo Democratic Republic,Sub-Saharan Africa,2017,44.74
+COD,Congo Democratic Republic,Sub-Saharan Africa,2018,39.09
+COD,Congo Democratic Republic,Sub-Saharan Africa,2019,52.91
+COD,Congo Democratic Republic,Sub-Saharan Africa,2020,62.39
+COD,Congo Democratic Republic,Sub-Saharan Africa,2021,56.74
 COG,Congo,Sub-Saharan Africa,2014,0.00
 COG,Congo,Sub-Saharan Africa,2015,0.00
 COG,Congo,Sub-Saharan Africa,2016,0.00
@@ -663,14 +663,14 @@ KHM,Cambodia,East Asia & Pacific,2018,77.88
 KHM,Cambodia,East Asia & Pacific,2019,75.85
 KHM,Cambodia,East Asia & Pacific,2020,79.46
 KHM,Cambodia,East Asia & Pacific,2021,85.76
-KOR,Korea, South,East Asia & Pacific,2014,40.97
-KOR,Korea, South,East Asia & Pacific,2015,78.06
-KOR,Korea, South,East Asia & Pacific,2016,81.88
-KOR,Korea, South,East Asia & Pacific,2017,83.19
-KOR,Korea, South,East Asia & Pacific,2018,85.47
-KOR,Korea, South,East Asia & Pacific,2019,86.82
-KOR,Korea, South,East Asia & Pacific,2020,86.09
-KOR,Korea, South,East Asia & Pacific,2021,89.44
+KOR,Korea South,East Asia & Pacific,2014,40.97
+KOR,Korea South,East Asia & Pacific,2015,78.06
+KOR,Korea South,East Asia & Pacific,2016,81.88
+KOR,Korea South,East Asia & Pacific,2017,83.19
+KOR,Korea South,East Asia & Pacific,2018,85.47
+KOR,Korea South,East Asia & Pacific,2019,86.82
+KOR,Korea South,East Asia & Pacific,2020,86.09
+KOR,Korea South,East Asia & Pacific,2021,89.44
 KWT,Kuwait,Middle East & North Africa,2014,36.80
 KWT,Kuwait,Middle East & North Africa,2015,51.36
 KWT,Kuwait,Middle East & North Africa,2016,69.18
