@@ -1,0 +1,176 @@
+﻿Rank,Country,National Cyber Security Index,Difference
+1.,Belgium,94.81,20.74
+2.,Lithuania,93.51,26.17
+3.,Estonia,93.51,17.92
+4.,Czech Republic,92.21,23
+5.,Germany,90.91,10.9
+6.,Romania,89.61,29.77
+7.,Greece,89.61,25.59
+8.,Portugal,89.61,21.15
+9.,United Kingdom,89.61,9.65
+10.,Spain,88.31,16.1
+11.,Poland,87.01,21.98
+12.,Austria,85.71,9.95
+13.,Finland,85.71,7.36
+14.,Saudi Arabia,84.42,20.53
+15.,France,84.42,7.13
+16.,Sweden,84.42,2.91
+17.,Denmark,84.42,1.74
+18.,Croatia,83.12,18.49
+19.,Slovakia,83.12,17.68
+20.,Netherlands,83.12,1.26
+21.,Serbia,80.52,20.71
+22.,Malaysia,79.22,17.03
+23.,Italy,79.22,11.96
+24.,Ukraine,75.32,19.36
+25.,Latvia,75.32,9.09
+26.,Ireland,75.32,0.14
+27.,Switzerland,75.32,-7.61
+28.,Bulgaria,74.03,11.97
+29.,Dominican Republic,71.43,26.22
+30.,Russian Federation,71.43,6.31
+31.,Singapore,71.43,-8.5
+32.,Morocco,70.13,23.25
+33.,Canada,70.13,-5.83
+34.,Korea (Republic of),68.83,-13.4
+35.,Bangladesh,67.53,34.42
+36.,Hungary,67.53,3.28
+37.,Israel,67.53,-7.97
+38.,Norway,67.53,-12.66
+39.,Cyprus,66.23,-2.6
+40.,Australia,66.23,-11.38
+41.,Luxembourg,66.23,-12.17
+42.,Georgia,64.94,11.44
+43.,Thailand,64.94,8.31
+44.,United States,64.94,-16.11
+45.,Paraguay,63.64,21.06
+46.,Philippines,63.64,17.65
+47.,Indonesia,63.64,16.23
+48.,Argentina,63.64,3.21
+49.,Japan,63.64,-15.05
+50.,Peru,62.34,14.11
+51.,Albania,62.34,13.6
+52.,Azerbaijan,61.04,6.26
+53.,India,59.74,19.72
+54.,Chile,59.74,-1.7
+55.,Uruguay,59.74,-4.12
+56.,Slovenia,59.74,-10
+57.,Benin,58.44,32.61
+58.,North Macedonia,58.44,3.08
+59.,Qatar,58.44,-6.55
+60.,Egypt,57.14,10.21
+61.,Moldova (Republic of),57.14,0.35
+62.,Bahrain,57.14,-8.03
+63.,Zambia,55.84,26.18
+64.,Iceland,55.84,-22.8
+65.,Nigeria,54.55,22.79
+66.,Türkiye,54.55,-3.74
+67.,Ecuador,53.25,7.68
+68.,Tunisia,53.25,6.99
+69.,Colombia,53.25,1.17
+70.,Belarus,53.25,-9.08
+71.,Brazil,51.95,-7.16
+72.,China,51.95,-10.46
+73.,New Zealand,51.95,-24.86
+74.,Uganda,50.65,23.94
+75.,Panama,50.65,2.22
+76.,Malta,50.65,-21.09
+77.,Costa Rica,49.35,-9.52
+78.,Kazakhstan,48.05,-12.13
+79.,Andorra,46.75,
+80.,Oman,45.45,-14.06
+81.,Sri Lanka,44.16,1.14
+82.,Mauritius,44.16,-9.41
+83.,Pakistan,41.56,9.33
+84.,Kenya,41.56,4.42
+85.,Jamaica,41.56,-6.62
+86.,Brunei Darussalam,41.56,-25.94
+87.,United Arab Emirates,40.26,-28.61
+88.,Monaco,40.26,
+89.,Kyrgyzstan,37.66,-5.3
+90.,Mexico,37.66,-13.8
+91.,Vietnam,36.36,-11.33
+92.,Uzbekistan,36.36,-12.64
+93.,South Africa,36.36,-12.88
+94.,Armenia,35.06,-20
+95.,Montenegro,35.06,-22.73
+96.,Kuwait,35.06,
+97.,Rwanda,33.77,3.54
+98.,Algeria,33.77,-9.04
+99.,Trinidad and Tobago,33.77,-18.83
+100.,Burkina Faso,33.77,
+101.,Ethiopia,32.47,11.77
+102.,Cameroon,32.47,4.19
+103.,Côte d'Ivoire,31.17,-2.37
+104.,Ghana,31.17,-9.51
+105.,Bolivia,31.17,-10.92
+106.,Liechtenstein,31.17,
+107.,Nicaragua,29.87,-2.83
+108.,Botswana,29.87,-12.09
+109.,Nepal,28.57,-2.01
+110.,Namibia,28.57,-8.71
+111.,Venezuela,28.57,-14.57
+112.,Bosnia and Herzegovina,28.57,-20.74
+113.,Jordan,28.57,-25.5
+114.,Malawi,27.27,4.07
+115.,Vanuatu,27.27,-0.83
+116.,Tonga,25.97,-17.43
+117.,"Tanzania, United Republic of",24.68,-2.28
+118.,Guatemala,24.68,-10.75
+119.,El Salvador,24.68,-14.49
+120.,Honduras,22.08,-13.01
+121.,Suriname,22.08,-29.42
+122.,Papua New Guinea,22.08,
+123.,San Marino,22.08,
+124.,Chad,20.78,3.5
+125.,Grenada,20.78,-37.22
+126.,Bahamas,20.78,-44.32
+127.,Liberia,19.48,
+128.,Mali,19.48,-6.52
+129.,Senegal,19.48,-13.56
+130.,Barbados,19.48,-53.62
+131.,Lao PDR,18.18,-14.19
+132.,Bhutan,18.18,-18.72
+133.,Belize,18.18,-18.92
+134.,Mongolia,18.18,-28.23
+135.,Somalia,18.18,
+136.,Cuba,16.88,-12.22
+137.,Zimbabwe,15.58,-13.39
+138.,Syrian Arab Republic,15.58,-17.82
+139.,Cambodia,15.58,-19.01
+140.,Mauritania,14.29,2.99
+141.,Fiji,14.29,-30.61
+142.,Iran (Islamic Republic of),14.29,-36.75
+143.,Madagascar,12.99,-9.81
+144.,Saint Lucia,12.99,-33.31
+145.,Afghanistan,11.69,-7.81
+146.,Sudan,11.69,-13.81
+147.,Antigua and Barbuda,11.69,-45.41
+148.,Saint Kitts and Nevis,11.69,-60.71
+149.,Gambia,11.69,
+150.,Samoa,10.39,-22.61
+151.,Myanmar,10.39,-23.9
+152.,Tajikistan,10.39,-24.17
+153.,Libya,10.39,-30.71
+154.,Guyana,10.39,-32.52
+155.,Seychelles,10.39,-39.91
+156.,Angola,9.09,-13.6
+157.,Mozambique,9.09,-15.79
+158.,Yemen,7.79,-10.21
+159.,Burundi,7.79,-10.85
+160.,Haiti,7.79,-18.67
+161.,Saint Vincent and the Grenadines,7.79,-47.61
+162.,Nauru,7.79,
+163.,Sierra Leone,7.79,
+164.,Turkmenistan,7.79,
+165.,Iraq,6.49,
+166.,Congo (Democratic Republic of the),5.19,-13.72
+167.,Kiribati,5.19,-16.51
+168.,Solomon Islands,3.90,-17.2
+169.,Dominica,3.90,-53
+170.,Tuvalu,2.60,
+171.,Vatican City,2.60,
+172.,Marshall Islands,1.30,
+173.,Micronesia (Federated States of),1.30,
+174.,Palau,1.30,
+175.,South Sudan,1.30,

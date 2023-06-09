@@ -1,0 +1,92 @@
+Global Rank,Region,Country Name,Year,Business,Technology,Data Science
+29,North America,United States,2022,0.96,0.43,0.54
+75,North America,Canada,2022,0.05,0.54,0.73
+34,Latin America and the Caribbean,Peru,2022,0.24,0.83,0.64
+41,Latin America and the Caribbean,Venezuela,2022,0.28,0.64,0.76
+54,Latin America and the Caribbean,El Salvador,2022,0.29,0.61,0.51
+55,Latin America and the Caribbean,Trinidad and Tobago,2022,0.88,0.21,0.28
+57,Latin America and the Caribbean,Costa Rica,2022,0.54,0.34,0.48
+63,Latin America and the Caribbean,Brazil,2022,0.16,0.73,0.34
+69,Latin America and the Caribbean,Ecuador,2022,0.1,0.58,0.61
+72,Latin America and the Caribbean,Chile,2022,0.04,0.7,0.56
+73,Latin America and the Caribbean,Uruguay,2022,0.08,0.71,0.39
+78,Latin America and the Caribbean,Colombia,2022,0.09,0.5,0.5
+82,Latin America and the Caribbean,Bolivia,2022,0.23,0.24,0.44
+83,Latin America and the Caribbean,Honduras,2022,0.13,0.59,0.22
+86,Latin America and the Caribbean,Guyana,2022,0.59,0.27,0.07
+87,Latin America and the Caribbean,Argentina,2022,0.07,0.36,0.45
+89,Latin America and the Caribbean,Mexico,2022,0.01,0.53,0.41
+90,Latin America and the Caribbean,Dominican Republic,2022,0.15,0.11,0.4
+91,Latin America and the Caribbean,Jamaica,2022,0.56,0.14,0.02
+95,Latin America and the Caribbean,Guatemala,2022,0.06,0.1,0.32
+96,Latin America and the Caribbean,Puerto Rico,2022,0.27,0.04,0.14
+97,Latin America and the Caribbean,Panama,2022,0.02,0.09,0.18
+3,Asia Pacific,Indonesia,2022,0.3,1,1
+5,Asia Pacific,Singapore,2022,0.9,0.95,0.82
+6,Asia Pacific,Japan,2022,0.67,0.98,0.91
+14,Asia Pacific,Hong Kong,2022,0.84,0.78,0.86
+24,Asia Pacific,Kazakhstan,2022,0.31,0.96,0.55
+26,Asia Pacific,"Korea, Republic of",2022,0.75,0.68,0.68
+31,Asia Pacific,Cyprus,2022,0.71,0.67,0.6
+33,Asia Pacific,Australia,2022,0.58,0.63,0.71
+35,Asia Pacific,Vietnam,2022,0.42,0.65,0.72
+39,Asia Pacific,Malaysia,2022,0.69,0.49,0.57
+43,Asia Pacific,Myanmar,2022,0.87,0.23,0.43
+49,Asia Pacific,Thailand,2022,0.49,0.48,0.62
+50,Asia Pacific,Bangladesh,2022,0.79,0.35,0.31
+51,Asia Pacific,New Zealand,2022,0.45,0.39,0.65
+52,Asia Pacific,China,2022,0.72,0.25,0.58
+53,Asia Pacific,Taiwan,2022,0.32,0.47,0.66
+59,Asia Pacific,Sri Lanka,2022,0.33,0.56,0.36
+64,Asia Pacific,Pakistan,2022,0.5,0.51,0.23
+68,Asia Pacific,India,2022,0.39,0.46,0.26
+70,Asia Pacific,Philippines,2022,0.62,0.29,0.21
+77,Asia Pacific,Nepal,2022,0.25,0.28,0.37
+84,Asia Pacific,Uzbekistan,2022,0.4,0.19,0.29
+1,Europe,Switzerland,2022,0.99,0.94,0.97
+2,Europe,Denmark,2022,0.94,0.97,0.97
+4,Europe,Belgium,2022,0.98,0.89,0.9
+7,Europe,Netherlands,2022,0.82,0.9,0.93
+8,Europe,Sweden,2022,0.81,0.87,0.94
+9,Europe,Germany,2022,0.92,0.85,0.88
+10,Europe,Bulgaria,2022,0.8,0.86,0.95
+11,Europe,Austria,2022,0.97,0.74,0.92
+12,Europe,Belarus,2022,0.26,0.99,0.96
+13,Europe,Finland,2022,0.65,0.91,0.98
+15,Europe,Italy,2022,0.86,0.84,0.79
+16,Europe,France,2022,0.68,0.88,0.87
+17,Europe,Norway,2022,0.75,0.8,0.89
+19,Europe,Serbia,2022,0.73,0.79,0.83
+20,Europe,Poland,2022,0.41,0.92,0.8
+21,Europe,Ukraine,2022,0.21,0.93,0.81
+22,Europe,Armenia,2022,0.44,0.81,0.84
+25,Europe,Spain,2022,0.61,0.69,0.85
+27,Europe,Hungary,2022,0.6,0.72,0.78
+28,Europe,Greece,2022,0.89,0.42,0.69
+30,Europe,Latvia,2022,0.78,0.66,0.53
+32,Europe,Georgia,2022,0.53,0.82,0.49
+37,Europe,Lithuania,2022,0.2,0.75,0.75
+38,Europe,United Kingdom,2022,0.38,0.6,0.74
+40,Europe,Romania,2022,0.46,0.76,0.46
+42,Europe,Estonia,2022,0.25,0.62,0.75
+45,Europe,Croatia,2022,0.64,0.45,0.59
+47,Europe,Turkey,2022,0.52,0.57,0.47
+48,Europe,Slovakia,2022,0.37,0.55,0.63
+58,Europe,Ireland,2022,0.43,0.38,0.52
+62,Europe,Czech Republic,2022,0.19,0.41,0.67
+66,Europe,Portugal,2022,0.36,0.37,0.38
+74,Europe,Azerbaijan,2022,0.76,0.12,0.25
+23,MENA,United Arab Emirates,2022,1,0.33,0.35
+36,MENA,Israel,2022,0.18,0.75,0.77
+44,MENA,Saudi Arabia,2022,0.91,0.4,0.15
+46,MENA,Kuwait,2022,0.85,0.31,0.25
+56,MENA,Tunisia,2022,0.57,0.44,0.42
+61,MENA,Qatar,2022,0.95,0.13,0.16
+76,MENA,Jordan,2022,0.47,0.26,0.33
+79,MENA,Egypt,2022,0.35,0.25,0.3
+81,MENA,Lebanon,2022,0.63,0.2,0.17
+92,MENA,Oman,2022,0.51,0.08,0.08
+93,MENA,Morocco,2022,0.11,0.15,0.19
+99,MENA,Iraq,2022,0.14,0.07,0.04
+100,MENA,Algeria,2022,0.03,0.03,0.11
+102,MENA,Sudan,2022,0.12,0.02,0.03
